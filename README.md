@@ -44,4 +44,4 @@ What steps did you take to try and increase model performance?
 
 
 ##Summary: 
-My best model achieved accuracy of . More data cleaning and using others models like SVM that have better generalization dapability could get better results. 
+My best model achieved accuracy of 0.7446. More data cleaning and using others models like SVM that have better generalization dapability could get better results. 
